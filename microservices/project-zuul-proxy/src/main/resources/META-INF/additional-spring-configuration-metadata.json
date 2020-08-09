@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "management.endpoint.health.showdetails",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoint.health.showdetails'"
+  },
+  {
+    "name": "spring.sleuth.sampler.probability",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.sleuth.sampler.probability'"
+  },
+  {
+    "name": "spring.zipkin.base-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.zipkin.base-url'"
+  }
+]}
