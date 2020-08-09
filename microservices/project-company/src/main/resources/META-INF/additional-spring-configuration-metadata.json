@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "management.endpoint.health.showdetails",
+  "type": "java.lang.String",
+  "description": "A description for 'management.endpoint.health.showdetails'"
+}]}
